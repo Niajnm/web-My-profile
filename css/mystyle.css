@@ -1,0 +1,118 @@
+body {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f5f9c989-0119-44ae-a646-d28630ea2f16/d2yp07m-a084ef34-38cc-400f-9d3d-db11e88eb1e5.jpg);
+    margin: 0px;
+    padding: 0px;
+    font-family: verdana;
+    color: aliceblue;
+}
+
+h1,
+h2 {
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 2px rgb(245, 147, 147), 0 0 25px blue, 0 0 5px darkblue, 1px 2px 2px, 1px 3px 2px, 1px 4px 2px, 1px 5px 2px, 1px 6px 2px;
+}
+
+header {
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/80/06/0457c309d6c513c.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 10px 20px 20px 20px;
+    text-align: center;
+}
+
+nav {
+    margin-top: 16px;
+    font-size: 1vw;
+}
+
+nav a {
+    display: inline-block;
+    width: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgb(95, 95, 95, 0.2);
+    text-decoration: none;
+    border-radius: 4px;
+    color: gray;
+}
+
+nav a:hover {
+    background: rgba(180, 192, 192, 0.5);
+}
+
+.active {
+    background: rgba(180, 192, 192, 0.5);
+    color: black;
+}
+
+.profile-image {
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    border: 5px inset rgba(88, 101, 128, 0.966);
+    image-resolution: 1vw;
+}
+
+section {
+    padding: 10px;
+    overflow: hidden;
+}
+
+h4 {
+    color: red;
+}
+
+section p:first-of-type {
+    color: rgb(170, 170, 170);
+}
+
+.header-red {
+    color: red;
+}
+
+.header-green {
+    color: rgb(0, 124, 0);
+}
+
+.hhhh {
+    padding: 8px;
+}
+
+span {
+    color: rgb(255, 0, 0);
+    display: inline-block;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+}
+
+.partial-image {
+    float: right
+}
+
+.about-back {
+    background-image: url(https://wallpapercave.com/wp/wp2820923.jpg);
+    height: 60vh;
+}
+
+div {
+    background-color: rgb(52, 54, 47);
+}
+
+p {
+    color: aliceblue;
+}
+
+.selsection div p {
+    color: #2F4F4F;
+}
+
+.bcolor {
+    color: #df6717;
+}
+
+.copyright {
+    background-color: #000000fb;
+    color: aliceblue;
+}
